@@ -285,4 +285,4 @@ This repository serves as the official landing page for Rise of Flight. The soft
 **Get the most recent version of Rise of Flight today!**
 
 ---
-**Last updated:** 2026-10-11 20:01:03 UTC
+**Last updated:** 2026-10-12 00:17:49 UTC
